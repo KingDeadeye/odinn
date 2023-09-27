@@ -1,2 +1,2 @@
-# odinn
-Odin recipe
+# odinrecipe
+Odin recipe yayyy
