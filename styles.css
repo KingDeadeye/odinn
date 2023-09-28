@@ -2,6 +2,14 @@
     background-color: red;
     color: white;
     text-align:center;
+    font-weight: bold;
+    font-size: 32px;
 
 
+}
+
+button{
+    color: black;
+    background-color: orange;
+    font-size: 18px;
 }
